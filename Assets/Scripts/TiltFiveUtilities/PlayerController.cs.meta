@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8213752b87806824f9f45c0e2e5c3d9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectedCharacter: {instanceID: 0}
+  - currentChar: {instanceID: 0}
+  - bm: {instanceID: 0}
+  - uiCore: {fileID: 7199188235543109178, guid: c3b148edd2bb398419aa47ec26ab1b0a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

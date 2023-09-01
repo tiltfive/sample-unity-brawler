@@ -1,0 +1,3 @@
+[submodule "Assets/MixCast"]
+	path = Assets/MixCast
+	url = https://github.com/MixCast/Unity-SDK.git
