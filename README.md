@@ -8,6 +8,10 @@ This is a quick introduction to the structure and purpose of the Battle Brawl (o
 
 The goal of this project is to provide a sample of a game that has reached a playable state for developers to reference if they're getting started developing with the Tilt Five system. None of the Assets included are expected or required to be used in creation of your game, they are provided as an example of how they can be accomplished. All scripts included are available for inclusion in your own applications if you wish, as is modification and redistribution of this project, pursuant the included license.
 
+### Required Unity Versions
+
+This project was built with Unity 2021.3 LTS and should work with later Unity versions.
+
 ### Structure
 
 This project includes 3 total scenes, an initial loading and title scene, a character selection scene, and a single arena. 
